@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="cucumber-java-6.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-core-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-gherkin-5.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-expressions-10.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-gherkin-messages-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-java-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-junit-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-jvm-deps-1.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-plugin-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-testng-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/datatable-4.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/docstring-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/hamcrest-all-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/tag-expressions-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/messages-15.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/hamcrest-all-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test verbose="2" preserve-order="true" name="Selenium3.141.59">
+        <parameter name="url" value="https://www.saucedemo.com/"></parameter>
+        <parameter name="Username" value="standard_user"></parameter>
+        <parameter name="Password" value="secret_sauce"></parameter>
+        <groups>
+            <run>
+                <include name="regression"></include>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Login"></class>
+            <class name="ProductPage"></class>
+
+        </classes>
+    </test>
+</suite>

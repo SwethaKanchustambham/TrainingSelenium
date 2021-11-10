@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cucumber-core-6.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-core-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-java-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-junit-6.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/junit-4.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-jvm-deps-1.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Cucumber jars/cucumber-gherkin-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
